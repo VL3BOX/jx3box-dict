@@ -4,3 +4,4 @@ docs
 .gitignore
 .npmignore
 test
+raw
